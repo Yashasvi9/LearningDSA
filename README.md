@@ -1,99 +1,145 @@
-🧠 Data Structures & Algorithms in Python
+🧠 DSA in Python — My Learning Journey
 
-Welcome to my DSA learning repository! 🚀
+Welcome to my Data Structures and Algorithms (DSA) learning repository! 🚀
 
-This repository contains the Data Structures and Algorithms concepts, problems, and Python implementations that I work on while learning and improving my problem-solving skills.
+This repository is a collection of my daily DSA practice and learning notes, written and implemented in Python using Jupyter Notebooks.
 
-The goal is to document my DSA journey, understand concepts through implementation, and gradually build a strong foundation in algorithms and problem-solving using Python.
+I'm using this repository to document my progress as I learn DSA — from the fundamentals to more advanced concepts and problem-solving techniques.
 
-📚 What's Inside
+🎯 Purpose
 
-This repository will include implementations and practice problems related to:
+The main purpose of this repository is to:
 
-🐍 Python fundamentals for DSA
+Learn and understand DSA concepts step by step
 
-📦 Arrays & Lists
+Implement what I learn using Python
 
-🔗 Linked Lists
+Practice solving problems regularly
 
-📚 Stacks & Queues
+Keep track of my daily progress
 
-🔍 Searching Algorithms
+Document my mistakes, approaches, and improvements
 
-🔃 Sorting Algorithms
+Build a strong foundation in problem-solving
 
-🌳 Trees & Binary Trees
+📓 Daily Learning
 
-🌲 Binary Search Trees
+Instead of organizing the repository into separate topic folders, I will be uploading my Jupyter Notebook for each day of my learning journey.
 
-🕸️ Graphs
+Each notebook may contain:
 
-#️⃣ Hashing
+📖 Concepts I learned that day
 
-🔄 Recursion & Backtracking
+💻 Python implementations
 
-💡 Dynamic Programming
+🧩 Practice problems
 
-🧮 Greedy Algorithms
+🧠 Problem-solving approaches
 
-And more as I progress...
+⏱️ Time and space complexity analysis
 
-🎯 Goals
+📝 Notes and observations
 
-Build a strong understanding of DSA fundamentals
+🔄 Different approaches or improvements
 
-Improve problem-solving and logical thinking
-
-Implement algorithms from scratch in Python
-
-Practice solving different types of problems
-
-Keep track of my progress and learning
-
-Create a reference that I can revisit in the future
-
-🗂️ Repository Structure
+Example
 DSA-Python/
 │
-├── Arrays/
-├── Linked-Lists/
-├── Stacks/
-├── Queues/
-├── Searching/
-├── Sorting/
-├── Recursion/
-├── Trees/
-├── Graphs/
-├── Hashing/
-├── Greedy/
-├── Dynamic-Programming/
+├── Day-01.ipynb
+├── Day-02.ipynb
+├── Day-03.ipynb
+├── Day-04.ipynb
+├── ...
+│
 └── README.md
 
 
-The structure of the repository may change as I learn new concepts and find better ways to organize my code.
+The notebooks will continue to be added as I progress.
 
-🛠️ Language & Tools
+📚 Topics
 
-Language: Python 🐍
+As I continue learning, the notebooks may cover topics such as:
 
-Editor: VS Code
+Python fundamentals for DSA
 
-Version Control: Git & GitHub
+Arrays
 
-📈 Learning Progress
+Strings
 
-This repository is a work in progress. New topics, implementations, and problem solutions will be added as I continue learning.
+Linked Lists
 
-Learning → Implementing → Practicing → Improving 🚀
+Stacks & Queues
 
-🤝 Contributions
+Searching
 
-This is primarily a personal learning repository, but suggestions, corrections, and improvements are always welcome!
+Sorting
 
-If you spot an issue or have a better approach, feel free to open an issue or submit a pull request.
+Recursion
 
-⭐ About This Repository
+Hashing
 
-This isn't meant to be a collection of perfect solutions. It's a record of my learning process — including the concepts I'm exploring, the problems I'm solving, and the progress I'm making along the way.
+Trees
 
-One problem at a time. One concept at a time. Keep learning. 💪
+Graphs
+
+Greedy Algorithms
+
+Dynamic Programming
+
+Backtracking
+
+And more...
+
+The order in which these topics appear may change depending on my learning path.
+
+📈 Progress
+Day	Notebook	Status
+Day 01	Day-01.ipynb	✅ Completed
+Day 02	Day-02.ipynb	🔄 In Progress
+Day 03	Day-03.ipynb	⏳ Upcoming
+
+This table will be updated as I continue my journey.
+
+🛠️ Tools & Technologies
+
+🐍 Python
+
+📓 Jupyter Notebook
+
+🔧 Git
+
+🐙 GitHub
+
+🌱 My Approach
+
+I'm not aiming for perfect solutions from day one.
+
+This repository is meant to show my actual learning process — understanding concepts, writing code, making mistakes, solving problems, and improving over time.
+
+Learn → Code → Practice → Make Mistakes → Improve → Repeat 🔁
+
+🚀 Future Plans
+
+As I progress, I plan to:
+
+Solve more DSA problems
+
+Improve the efficiency of my solutions
+
+Analyze time and space complexity
+
+Explore different approaches to the same problem
+
+Practice problems from coding platforms
+
+Build a strong foundation for technical interviews
+
+📌 Note
+
+This repository is a work in progress and will grow along with my DSA journey.
+
+If you're also learning DSA, feel free to explore the notebooks and learn along with me!
+
+⭐ One Day at a Time
+
+One notebook. One concept. One problem. One step closer. 🚀
